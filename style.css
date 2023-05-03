@@ -1,5 +1,6 @@
-#postContent{
+.mainTextWord{
     font-family: sans-serif;
+    color: pink;
 }
 
 @media (max-width: 480px){
